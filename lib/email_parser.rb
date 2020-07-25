@@ -5,8 +5,6 @@
 
 class EmailAddressParser
   
-  attr_accessor :
-  
   def initialize(string)
     @string = string
   end 
